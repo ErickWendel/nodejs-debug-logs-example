@@ -15,3 +15,7 @@ Restore dependencies: `npm install`
 
 To test results run:
 `curl localhost:3000/`
+
+## Demo
+
+![demonstration](./resources/demo.gif)
